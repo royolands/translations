@@ -1,0 +1,79 @@
+[
+  {
+    "id": "intro",
+    "label": "Introduction",
+    "title": "",
+    "icon": "Shield",
+    "content": "<p>This document governs your relationship with Royolands services.</p><p class=\"text-sm text-[var(--fg-muted)] mb-6\">Last updated: January 14, 2026</p><p>PLEASE READ THESE TERMS OF USE (\"AGREEMENT\") CAREFULLY, INCLUDING OUR PRIVACY POLICY.</p><p>This Agreement is a legally binding contract between the self-employed individual Voevodin Nikita Alexandrovich (\"Royolands\", \"we\", \"our\", or \"us\") and you (\"you\" or \"User\"). This Agreement governs your use of or access to Royolands game servers (based on Minecraft), our website, any game sites, software systems, customer support, social networks, community channels, and/or any other online services provided by Royolands (collectively, the \"Royolands Services\"), whether as a guest or a Registered User.</p><p>By using Royolands Services, you confirm that you have reached the age of majority in your country of residence or have the legal consent of a parent or guardian to use our services.</p><div class=\"p-4 rounded-xl bg-indigo-500/10 border border-indigo-500/20 text-sm font-medium mt-4\"><strong class=\"block mb-1 text-[var(--fg)]\">IMPORTANT NOTICE REGARDING DISPUTE RESOLUTION:</strong>THIS AGREEMENT CONTAINS BINDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS IN SECTION 9 BELOW. EXCEPT FOR CERTAIN TYPES OF DISPUTES SPECIFIED IN THAT SECTION, YOU AND ROYOLANDS AGREE TO RESOLVE DISPUTES THROUGH BINDING INDIVIDUAL ARBITRATION RATHER THAN IN COURT.</div>"
+  },
+  {
+    "id": "definitions",
+    "label": "1. Definitions",
+    "title": "1. Definitions",
+    "icon": "Book",
+    "content": "<p><strong>\"Royolands Games\"</strong> refers to any game worlds, Minecraft servers, modifications, and add-ons that Royolands has launched or will launch in the future.</p><p>Royolands Games include, but are not limited to, client and server software (including, but not limited to, all game content, components, elements, or features), any patches, updates, and upgrades, any related content, documentation, add-ons, and any game services provided to you by Royolands under this Agreement.</p><p class=\"mt-4\"><strong>\"Virtual Goods\"</strong> means in-game currency, cosmetic items, privileges (ranks), territories, and other digital assets available within the Royolands Services.</p>"
+  },
+  {
+    "id": "account",
+    "label": "2. Account",
+    "title": "2. Royolands Account (Royolands ID)",
+    "icon": "User",
+    "content": "<ol class=\"list-[lower-alpha] pl-5 space-y-3\"><li>To access the full functionality of Royolands Services, you may be required to create an account (\"Account\"). You agree to provide accurate, current, and complete information upon registration.</li><li>You are solely responsible for maintaining the confidentiality of your login credentials (username and password). You must not transfer, sell, or provide access to your Account to third parties.</li><li>Royolands reserves the right to suspend or delete your Account at any time without prior notice or explanation if we have reason to believe you have violated the terms of this Agreement, or if your Account usage poses a threat to the security of the Services.</li><li>If you lose access to your Account due to your own fault (e.g., sharing your password with third parties), Royolands is not responsible for restoring access or refunding lost Virtual Goods.</li></ol>"
+  },
+  {
+    "id": "license",
+    "label": "3. License",
+    "title": "3. License and Rights",
+    "icon": "FileCheck",
+    "content": "<p>Royolands grants you a personal, limited, revocable, non-exclusive, non-transferable, and non-sublicensable license to install and use Royolands software and resources on devices you legally own or control, solely for your personal entertainment and non-commercial purposes (the \"License\").</p><p>You acknowledge that all rights, titles, and interests in and to the Royolands Services (including, but not limited to, any maps, builds, plots, dialogue, concepts, graphics, animations, sounds, musical compositions, audiovisual effects, methods of operation, moral rights, documentation, and chat logs) belong to Voevodin Nikita Alexandrovich.</p><h4 class=\"font-bold text-[var(--fg)] mt-6 mb-2\">Prohibited Actions:</h4><ul class=\"list-disc pl-5 space-y-2\"><li>Copying, decompiling, or reverse-engineering server code or resources.</li><li>Creating derivative works based on our content without written permission.</li><li>Using the Services for commercial gain (e.g., selling in-game assets for real money outside the official store).</li></ul>"
+  },
+  {
+    "id": "conduct",
+    "label": "4. Conduct",
+    "title": "4. Code of Conduct",
+    "icon": "AlertTriangle",
+    "content": "<p>You agree not to engage in the following actions (directly or indirectly):</p><ul class=\"list-disc pl-5 space-y-3 mt-4\"><li><strong>Use of third-party software:</strong> Cheats, bots, scripts, or modified clients (e.g., X-Ray, KillAura) that provide an unfair advantage over other players.</li><li><strong>Toxic behavior:</strong> Insults, threats, harassment, or hate speech based on race, ethnicity, gender, or religion.</li><li><strong>Griefing:</strong> Destroying other players' builds without their consent, if it contradicts the rules of a specific game mode.</li><li><strong>Advertising:</strong> Distributing links to third-party resources, servers, or commercial offers.</li></ul>"
+  },
+  {
+    "id": "ugc",
+    "label": "5. Content",
+    "title": "5. User-Generated Content (UGC)",
+    "icon": "UploadCloud",
+    "content": "<p>By uploading, creating, or transmitting any content through Royolands Services (including chat messages, in-game builds, and skins), you grant Royolands a global, perpetual, irrevocable, fully paid, royalty-free license to use, copy, modify, distribute, and publicly display such content.</p><p>We are not obligated to monitor User-Generated Content, but we reserve the right, at our sole discretion, to remove or edit any materials we deem inappropriate or in violation of this Agreement.</p>"
+  },
+  {
+    "id": "payments",
+    "label": "6. Payments",
+    "title": "6. Virtual Goods and Payments",
+    "icon": "CreditCard",
+    "content": "<p>The Services may include the ability to purchase a license to use Virtual Goods and Virtual Currency for real money (\"Donations\").</p><h4 class=\"font-bold text-[var(--fg)] mt-6 mb-2\">Non-Refundable</h4><p>You acknowledge and agree that any payments for the right to use Virtual Goods are final and are not subject to refund, exchange, or transfer, except as expressly required by the applicable laws of the Russian Federation.</p><h4 class=\"font-bold text-[var(--fg)] mt-6 mb-2\">No Real-World Value</h4><p>Virtual Goods have no monetary value in the real world and cannot be exchanged for fiat currency. Royolands reserves the right to modify, remove, or manage Virtual Goods at its sole discretion.</p><p class=\"mt-4\">For users making purchases through third-party platforms, the terms of use of those platforms also apply. You warrant that you have the legal right to use the selected payment method.</p>"
+  },
+  {
+    "id": "disclaimer",
+    "label": "7. Disclaimer",
+    "title": "7. Disclaimer of Warranties",
+    "icon": "XOctagon",
+    "content": "<p class=\"font-bold text-lg mb-4 text-[var(--fg)]\">AS IS / AS AVAILABLE</p><p class=\"uppercase font-medium text-sm text-[var(--fg-muted)] mb-4\">THE ROYOLANDS SERVICES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ROYOLANDS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.</p><p class=\"uppercase font-medium text-sm text-[var(--fg-muted)]\">WE DO NOT GUARANTEE THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF VIRUSES. YOU USE THE SERVICES AT YOUR OWN RISK.</p><div class=\"p-4 rounded-xl bg-yellow-500/10 border border-yellow-500/20 text-sm mt-6\"><strong class=\"block mb-1 text-yellow-500\">Epilepsy Warning:</strong> A small percentage of individuals may experience epileptic seizures when exposed to certain light patterns or flashing lights. If you have a history of epilepsy, consult a physician before playing.</div>"
+  },
+  {
+    "id": "liability",
+    "label": "8. Liability",
+    "title": "8. Limitation of Liability",
+    "icon": "Scale",
+    "content": "<p class=\"uppercase font-medium text-sm text-[var(--fg-muted)] mb-4\">UNDER NO CIRCUMSTANCES SHALL ROYOLANDS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, LOSS OF DATA, OR BUSINESS INTERRUPTION) ARISING OUT OF OR IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE SERVICES.</p><p class=\"uppercase font-medium text-sm text-[var(--fg-muted)]\">THE TOTAL LIABILITY OF ROYOLANDS TO YOU FOR ALL CLAIMS IS LIMITED TO THE AMOUNT YOU PAID US IN THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE CLAIM, OR 1000 RUBLES IF YOU HAVE NOT MADE ANY PAYMENTS.</p>"
+  },
+  {
+    "id": "disputes",
+    "label": "9. Disputes",
+    "title": "9. Dispute Resolution and Governing Law",
+    "icon": "Gavel",
+    "content": "<ol class=\"list-[lower-alpha] pl-5 space-y-3\"><li><strong>Governing Law:</strong> This Agreement shall be governed by and construed in accordance with the laws of the Russian Federation, without regard to its conflict of law principles.</li><li><strong>Pre-trial Settlement:</strong> In the event of a dispute, you and Royolands agree to attempt to resolve it informally for at least thirty (30) days before initiating arbitration or court proceedings. Notice of the dispute must be sent to <a href=\"mailto:legal@royolands.com\" class=\"text-indigo-500 hover:underline\">legal@royolands.com</a>.</li><li><strong>Jurisdiction:</strong> All legal actions relating to this Agreement shall be brought exclusively in the courts at the place of registration of the self-employed individual Voevodin N.A. (Russian Federation).</li><li><strong>Class Action Waiver:</strong> You and Royolands agree that each party may bring claims against the other only in an individual capacity and not as a plaintiff or class member in any purported class or representative proceeding.</li></ol>"
+  },
+  {
+    "id": "contact",
+    "label": "Contacts",
+    "title": "Contact Information",
+    "icon": "Mail",
+    "content": "<div class=\"bg-[var(--card-bg)] border border-[var(--card-border)] rounded-3xl p-8\"><p class=\"mb-4\">Still have questions?</p><div class=\"space-y-2\"><p><strong>Legal Entity:</strong> Self-employed Voevodin Nikita Alexandrovich</p><p><strong>Tax Regime:</strong> Professional Income Tax (NPD), Russia</p><p><strong>Mailing Address:</strong> Available upon request</p><p><strong>Support:</strong> <a href=\"mailto:support@royolands.com\" class=\"text-indigo-500 hover:underline\">support@royolands.com</a></p><p><strong>Legal Inquiries:</strong> <a href=\"mailto:legal@royolands.com\" class=\"text-indigo-500 hover:underline\">legal@royolands.com</a></p></div></div>"
+  }
+]
